@@ -17,7 +17,10 @@ Projects
 Usage
 
 Clone the repository and open the notebooks using Jupyter Notebook or JupyterLab to explore the projects.
+To clone the repository, run the following command:
 
+bash
+Copy code
 git clone https://github.com/StachysAE/PinnacleLabs.git
 
 Requirements
